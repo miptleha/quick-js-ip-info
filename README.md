@@ -1,4 +1,3 @@
-# quick-js-ip-info
 Quick JS application for search by IP address.
 
 # How to run
