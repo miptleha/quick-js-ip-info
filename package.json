@@ -1,0 +1,27 @@
+{
+  "name": "quick-js-ip-info",
+  "version": "1.0.0",
+  "description": "Displays information about IP Address",
+  "main": "index.html",
+  "scripts": {
+    "test": "miptleha-http"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miptleha/quick-js-ip-info.git"
+  },
+  "keywords": [
+    "IP",
+    "JS",
+    "Info"
+  ],
+  "author": "miptleha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miptleha/quick-js-ip-info/issues"
+  },
+  "homepage": "https://github.com/miptleha/quick-js-ip-info#readme",
+  "devDependencies": {
+    "miptleha-http": "*"
+  }
+}
