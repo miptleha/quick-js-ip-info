@@ -26,3 +26,9 @@ main {
     display: flex;
     flex-direction: column;
 }
+
+#flag {
+    border: 1px solid #555;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
